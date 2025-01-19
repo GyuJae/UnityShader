@@ -391,7 +391,7 @@ GameObject:
   - component: {fileID: 1063821040}
   - component: {fileID: 1063821044}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: CodeMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -441,7 +441,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6ae809dc55723874b9c50efa6826998c, type: 2}
+  - {fileID: 2100000, guid: 8280f0ce472346a46a23960875de1b6a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -470,7 +470,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1063821039}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: bd5cfb04c2319a249ae40bb08177d8cd, type: 2}
 --- !u!4 &1063821043
 Transform:
   m_ObjectHideFlags: 0

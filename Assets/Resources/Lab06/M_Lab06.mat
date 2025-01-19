@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Lab03
-  m_Shader: {fileID: 4800000, guid: 0c22c314d0d7aa448b34fd6a59c8a35f, type: 3}
+  m_Name: M_Lab06
+  m_Shader: {fileID: 4800000, guid: bea3e37829b638e45a58c15243fd9db9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
